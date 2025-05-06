@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning *MernStack*
 
-- 👨‍💻 All of my projects are available at [https://github.com/rdalvi1210](https://rdalvi1210.github.io/rdalviportfolio.github.io/)
+- 👨‍💻 All of my projects are available at https://github.com/rushiiiiiiiiiiiiiiiiiiii
 
 - 📫 How to reach me *rushikesharote14@gmail.com*
 
